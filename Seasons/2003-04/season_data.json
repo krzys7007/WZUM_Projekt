@@ -1,0 +1,42 @@
+{
+  "season": "2003-04",
+  "all-nba": {
+    "first-all-nba": [
+      "Shaquille O'Neal",
+      "Tim Duncan",
+      "Kevin Garnett",
+      "Kobe Bryant",
+      "Jason Kidd"
+    ],
+    "secound-all-nba": [
+      "Ben Wallace",
+      "Jermaine O'Neal",
+      "Peja Stojakovic",
+      "Sam Cassell",
+      "Tracy McGrady"
+    ],
+    "third-all-nba": [
+      "Yao Ming",
+      "Metta World Peace",
+      "Dirk Nowitzki",
+      "Baron Davis",
+      "Michael Redd"
+    ]
+  },
+  "all-rookie": {
+    "first-all-rookie": [
+      "Carmelo Anthony",
+      "Chris Bosh",
+      "Kirk Hinrich",
+      "LeBron James",
+      "Dwyane Wade"
+    ],
+    "secound-all-rookie": [
+      "Marquis Daniels",
+      "T.J. Ford",
+      "Udonis Haslem",
+      "Jarvis Hayes",
+      "Josh Howard"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "season": "2011-12",
+  "all-nba": {
+    "first-all-nba": [
+      "Dwight Howard",
+      "Kevin Durant",
+      "LeBron James",
+      "Kobe Bryant",
+      "Chris Paul"
+    ],
+    "secound-all-nba": [
+      "Andrew Bynum",
+      "Blake Griffin",
+      "Kevin Love",
+      "Tony Parker",
+      "Russell Westbrook"
+    ],
+    "third-all-nba": [
+      "Tyson Chandler",
+      "Carmelo Anthony",
+      "Dirk Nowitzki",
+      "Rajon Rondo",
+      "Dwyane Wade"
+    ]
+  },
+  "all-rookie": {
+    "first-all-rookie": [
+      "Kenneth Faried",
+      "Kyrie Irving",
+      "Ricky Rubio",
+      "Klay Thompson",
+      "Brandon Knight"
+    ],
+    "secound-all-rookie": [
+      "MarShon Brooks",
+      "Chandler Parsons",
+      "Isaiah Thomas",
+      "Tristan Thompson",
+      "Derrick Williams"
+    ]
+  }
+}

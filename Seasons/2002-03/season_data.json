@@ -1,0 +1,42 @@
+{
+  "season": "2002-03",
+  "all-nba": {
+    "first-all-nba": [
+      "Shaquille O'Neal",
+      "Tim Duncan",
+      "Kevin Garnett",
+      "Kobe Bryant",
+      "Tracy McGrady"
+    ],
+    "secound-all-nba": [
+      "Ben Wallace",
+      "Dirk Nowitzki",
+      "Chris Webber",
+      "Allen Iverson",
+      "Jason Kidd"
+    ],
+    "third-all-nba": [
+      "Jermaine O'Neal",
+      "Jamal Mashburn",
+      "Paul Pierce",
+      "Stephon Marbury",
+      "Steve Nash"
+    ]
+  },
+  "all-rookie": {
+    "first-all-rookie": [
+      "Caron Butler",
+      "Drew Gooden",
+      "Nene",
+      "Yao Ming",
+      "Amar'e Stoudemire"
+    ],
+    "secound-all-rookie": [
+      "Carlos Boozer",
+      "J.R. Bremer",
+      "Manu Ginobili",
+      "Gordan Giricek",
+      "Jay Williams"
+    ]
+  }
+}

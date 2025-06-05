@@ -1,0 +1,42 @@
+{
+  "season": "2012-13",
+  "all-nba": {
+    "first-all-nba": [
+      "Tim Duncan",
+      "Kevin Durant",
+      "LeBron James",
+      "Kobe Bryant",
+      "Chris Paul"
+    ],
+    "secound-all-nba": [
+      "Marc Gasol",
+      "Carmelo Anthony",
+      "Blake Griffin",
+      "Tony Parker",
+      "Russell Westbrook"
+    ],
+    "third-all-nba": [
+      "Dwight Howard",
+      "Paul George",
+      "David Lee",
+      "James Harden",
+      "Dwyane Wade"
+    ]
+  },
+  "all-rookie": {
+    "first-all-rookie": [
+      "Harrison Barnes",
+      "Bradley Beal",
+      "Anthony Davis",
+      "Damian Lillard",
+      "Dion Waiters"
+    ],
+    "secound-all-rookie": [
+      "Andre Drummond",
+      "Michael Kidd-Gilchrist",
+      "Kyle Singler",
+      "Jonas Valančiūnas",
+      "Tyler Zeller"
+    ]
+  }
+}

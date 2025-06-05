@@ -1,0 +1,42 @@
+{
+  "season": "2005-06",
+  "all-nba": {
+    "first-all-nba": [
+      "Shaquille O'Neal",
+      "LeBron James",
+      "Dirk Nowitzki",
+      "Kobe Bryant",
+      "Steve Nash"
+    ],
+    "secound-all-nba": [
+      "Ben Wallace",
+      "Elton Brand",
+      "Tim Duncan",
+      "Chauncey Billups",
+      "Dwyane Wade"
+    ],
+    "third-all-nba": [
+      "Yao Ming",
+      "Carmelo Anthony",
+      "Shawn Marion",
+      "Gilbert Arenas",
+      "Allen Iverson"
+    ]
+  },
+  "all-rookie": {
+    "first-all-rookie": [
+      "Andrew Bogut",
+      "Channing Frye",
+      "Chris Paul",
+      "Charlie Villanueva",
+      "Deron Williams"
+    ],
+    "secound-all-rookie": [
+      "Raymond Felton",
+      "Ryan Gomes",
+      "Danny Granger",
+      "Luther Head",
+      "Marvin Williams"
+    ]
+  }
+}

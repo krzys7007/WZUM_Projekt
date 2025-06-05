@@ -1,0 +1,42 @@
+{
+  "season": "2017-18",
+  "all-nba": {
+    "first-all-nba": [
+      "Anthony Davis",
+      "LeBron James",
+      "Kevin Durant",
+      "Damian Lillard",
+      "James Harden"
+    ],
+    "secound-all-nba": [
+      "Joel Embiid",
+      "Giannis Antetokounmpo",
+      "LaMarcus Aldridge",
+      "Russell Westbrook",
+      "DeMar DeRozan"
+    ],
+    "third-all-nba": [
+      "Karl-Anthony Towns",
+      "Jimmy Butler III",
+      "Paul George",
+      "Stephen Curry",
+      "Victor Oladipo"
+    ]
+  },
+  "all-rookie": {
+    "first-all-rookie": [
+      "Donovan Mitchell",
+      "Ben Simmons",
+      "Jayson Tatum",
+      "Kyle Kuzma",
+      "Lauri Markkanen"
+    ],
+    "secound-all-rookie": [
+      "Dennis Smith Jr.",
+      "Lonzo Ball",
+      "John Collins",
+      "Bogdan Bogdanović",
+      "Josh Jackson"
+    ]
+  }
+}

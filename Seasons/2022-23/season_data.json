@@ -1,0 +1,42 @@
+{
+  "season": "2022-23",
+  "all-nba": {
+    "first-all-nba": [
+      "Joel Embiid",
+      "Giannis Antetokounmpo",
+      "Jayson Tatum",
+      "Luka Dončić",
+      "Shai Gilgeous-Alexander"
+    ],
+    "secound-all-nba": [
+      "Nikola Jokić",
+      "Jimmy Butler III",
+      "Jaylen Brown",
+      "Donovan Mitchell",
+      "Stephen Curry"
+    ],
+    "third-all-nba": [
+      "Domantas Sabonis",
+      "LeBron James",
+      "Julius Randle",
+      "De'Aaron Fox",
+      "Damian Lillard"
+    ]
+  },
+  "all-rookie": {
+    "first-all-rookie": [
+      "Paolo Banchero",
+      "Walker Kessler",
+      "Bennedict Mathurin",
+      "Keegan Murray",
+      "Jalen Williams"
+    ],
+    "secound-all-rookie": [
+      "Jalen Duren",
+      "Tari Eason",
+      "Jaden Ivey",
+      "Jabari Smith Jr.",
+      "Jeremy Sochan"
+    ]
+  }
+}

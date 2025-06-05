@@ -1,0 +1,42 @@
+{
+  "season": "2000-01",
+  "all-nba": {
+    "first-all-nba": [
+      "Shaquille O'Neal",
+      "Tim Duncan",
+      "Chris Webber",
+      "Allen Iverson",
+      "Jason Kidd"
+    ],
+    "secound-all-nba": [
+      "Dikembe Mutombo",
+      "Vince Carter",
+      "Kevin Garnett",
+      "Kobe Bryant",
+      "Tracy McGrady"
+    ],
+    "third-all-nba": [
+      "David Robinson",
+      "Karl Malone",
+      "Dirk Nowitzki",
+      "Ray Allen",
+      "Gary Payton"
+    ]
+  },
+  "all-rookie": {
+    "first-all-rookie": [
+      "Marc Jackson",
+      "Kenyon Martin",
+      "Darius Miles",
+      "Mike Miller",
+      "Morris Peterson"
+    ],
+    "secound-all-rookie": [
+      "Courtney Alexander",
+      "Marcus Fizer",
+      "Desmond Mason",
+      "Chris Mihm",
+      "Hedo Turkoglu"
+    ]
+  }
+}

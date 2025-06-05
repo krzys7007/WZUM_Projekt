@@ -1,0 +1,42 @@
+{
+  "season": "2015-16",
+  "all-nba": {
+    "first-all-nba": [
+      "DeAndre Jordan",
+      "LeBron James",
+      "Kawhi Leonard",
+      "Stephen Curry",
+      "Russell Westbrook"
+    ],
+    "secound-all-nba": [
+      "DeMarcus Cousins",
+      "Kevin Durant",
+      "Draymond Green",
+      "Chris Paul",
+      "Damian Lillard"
+    ],
+    "third-all-nba": [
+      "Andre Drummond",
+      "Paul George",
+      "LaMarcus Aldridge",
+      "Klay Thompson",
+      "Kyle Lowry"
+    ]
+  },
+  "all-rookie": {
+    "first-all-rookie": [
+      "Karl-Anthony Towns",
+      "Kristaps Porziņģis",
+      "Devin Booker",
+      "Nikola Jokić",
+      "Jahlil Okafor"
+    ],
+    "secound-all-rookie": [
+      "Justise Winslow",
+      "D'Angelo Russell",
+      "Emmanuel Mudiay",
+      "Myles Turner",
+      "Willie Cauley-Stein"
+    ]
+  }
+}

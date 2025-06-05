@@ -1,0 +1,42 @@
+{
+  "season": "2009-10",
+  "all-nba": {
+    "first-all-nba": [
+      "Dwight Howard",
+      "Kevin Durant",
+      "LeBron James",
+      "Kobe Bryant",
+      "Dwyane Wade"
+    ],
+    "secound-all-nba": [
+      "Amar'e Stoudemire",
+      "Carmelo Anthony",
+      "Dirk Nowitzki",
+      "Steve Nash",
+      "Deron Williams"
+    ],
+    "third-all-nba": [
+      "Andrew Bogut",
+      "Tim Duncan",
+      "Pau Gasol",
+      "Joe Johnson",
+      "Brandon Roy"
+    ]
+  },
+  "all-rookie": {
+    "first-all-rookie": [
+      "Darren Collison",
+      "Stephen Curry",
+      "Tyreke Evans",
+      "Taj Gibson",
+      "Brandon Jennings"
+    ],
+    "secound-all-rookie": [
+      "DeJuan Blair",
+      "Jonny Flynn",
+      "James Harden",
+      "Jonas Jerebko",
+      "Marcus Thornton"
+    ]
+  }
+}

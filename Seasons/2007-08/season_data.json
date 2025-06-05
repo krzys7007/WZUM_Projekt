@@ -1,0 +1,42 @@
+{
+  "season": "2007-08",
+  "all-nba": {
+    "first-all-nba": [
+      "Dwight Howard",
+      "Kevin Garnett",
+      "LeBron James",
+      "Kobe Bryant",
+      "Chris Paul"
+    ],
+    "secound-all-nba": [
+      "Amar'e Stoudemire",
+      "Tim Duncan",
+      "Dirk Nowitzki",
+      "Steve Nash",
+      "Deron Williams"
+    ],
+    "third-all-nba": [
+      "Yao Ming",
+      "Carlos Boozer",
+      "Paul Pierce",
+      "Manu Ginobili",
+      "Tracy McGrady"
+    ]
+  },
+  "all-rookie": {
+    "first-all-rookie": [
+      "Kevin Durant",
+      "Jeff Green",
+      "Al Horford",
+      "Luis Scola",
+      "Al Thornton"
+    ],
+    "secound-all-rookie": [
+      "Carl Landry",
+      "Jamario Moon",
+      "Juan Carlos Navarro",
+      "Rodney Stuckey",
+      "Thaddeus Young"
+    ]
+  }
+}

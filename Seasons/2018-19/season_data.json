@@ -1,0 +1,42 @@
+{
+  "season": "2018-19",
+  "all-nba": {
+    "first-all-nba": [
+      "Nikola Jokić",
+      "Giannis Antetokounmpo",
+      "Paul George",
+      "James Harden",
+      "Stephen Curry"
+    ],
+    "secound-all-nba": [
+      "Joel Embiid",
+      "Kevin Durant",
+      "Kawhi Leonard",
+      "Damian Lillard",
+      "Kyrie Irving"
+    ],
+    "third-all-nba": [
+      "Rudy Gobert",
+      "LeBron James",
+      "Blake Griffin",
+      "Kemba Walker",
+      "Russell Westbrook"
+    ]
+  },
+  "all-rookie": {
+    "first-all-rookie": [
+      "Luka Dončić",
+      "Trae Young",
+      "Deandre Ayton",
+      "Jaren Jackson Jr.",
+      "Marvin Bagley III"
+    ],
+    "secound-all-rookie": [
+      "Shai Gilgeous-Alexander",
+      "Collin Sexton",
+      "Landry Shamet",
+      "Mitchell Robinson",
+      "Kevin Huerter"
+    ]
+  }
+}

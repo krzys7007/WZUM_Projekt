@@ -1,0 +1,42 @@
+{
+  "season": "2006-07",
+  "all-nba": {
+    "first-all-nba": [
+      "Amar'e Stoudemire",
+      "Tim Duncan",
+      "Dirk Nowitzki",
+      "Kobe Bryant",
+      "Steve Nash"
+    ],
+    "secound-all-nba": [
+      "Yao Ming",
+      "Chris Bosh",
+      "LeBron James",
+      "Gilbert Arenas",
+      "Tracy McGrady"
+    ],
+    "third-all-nba": [
+      "Dwight Howard",
+      "Carmelo Anthony",
+      "Kevin Garnett",
+      "Chauncey Billups",
+      "Dwyane Wade"
+    ]
+  },
+  "all-rookie": {
+    "first-all-rookie": [
+      "Andrea Bargnani",
+      "Randy Foye",
+      "Rudy Gay",
+      "Brandon Roy",
+      "LaMarcus Aldridge"
+    ],
+    "secound-all-rookie": [
+      "Paul Millsap",
+      "Adam Morrison",
+      "Craig Smith",
+      "Tyrus Thomas",
+      "Walter Herrmann"
+    ]
+  }
+}

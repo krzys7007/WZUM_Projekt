@@ -1,0 +1,42 @@
+{
+  "season": "2020-21",
+  "all-nba": {
+    "first-all-nba": [
+      "Nikola Jokić",
+      "Giannis Antetokounmpo",
+      "Kawhi Leonard",
+      "Stephen Curry",
+      "Luka Dončić"
+    ],
+    "secound-all-nba": [
+      "Joel Embiid",
+      "Julius Randle",
+      "LeBron James",
+      "Chris Paul",
+      "Damian Lillard"
+    ],
+    "third-all-nba": [
+      "Rudy Gobert",
+      "Jimmy Butler III",
+      "Paul George",
+      "Bradley Beal",
+      "Kyrie Irving"
+    ]
+  },
+  "all-rookie": {
+    "first-all-rookie": [
+      "LaMelo Ball",
+      "Saddiq Bey",
+      "Anthony Edwards",
+      "Tyrese Haliburton",
+      "Jae'Sean Tate"
+    ],
+    "secound-all-rookie": [
+      "Desmond Bane",
+      "Isaac Okoro",
+      "Immanuel Quickley",
+      "Isaiah Stewart",
+      "Patrick Williams"
+    ]
+  }
+}

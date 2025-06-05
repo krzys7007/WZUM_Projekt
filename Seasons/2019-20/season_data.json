@@ -1,0 +1,42 @@
+{
+  "season": "2019-20",
+  "all-nba": {
+    "first-all-nba": [
+      "Anthony Davis",
+      "Giannis Antetokounmpo",
+      "LeBron James",
+      "James Harden",
+      "Luka Dončić"
+    ],
+    "secound-all-nba": [
+      "Nikola Jokić",
+      "Kawhi Leonard",
+      "Pascal Siakam",
+      "Damian Lillard",
+      "Chris Paul"
+    ],
+    "third-all-nba": [
+      "Rudy Gobert",
+      "Jayson Tatum",
+      "Jimmy Butler III",
+      "Ben Simmons",
+      "Russell Westbrook"
+    ]
+  },
+  "all-rookie": {
+    "first-all-rookie": [
+      "Ja Morant",
+      "Kendrick Nunn",
+      "Brandon Clarke",
+      "Zion Williamson",
+      "Eric Paschall"
+    ],
+    "secound-all-rookie": [
+      "Tyler Herro",
+      "Terence Davis",
+      "Coby White",
+      "P.J. Washington",
+      "Rui Hachimura"
+    ]
+  }
+}

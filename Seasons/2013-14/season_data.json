@@ -1,0 +1,42 @@
+{
+  "season": "2013-14",
+  "all-nba": {
+    "first-all-nba": [
+      "Joakim Noah",
+      "Kevin Durant",
+      "LeBron James",
+      "James Harden",
+      "Chris Paul"
+    ],
+    "secound-all-nba": [
+      "Dwight Howard",
+      "Blake Griffin",
+      "Kevin Love",
+      "Stephen Curry",
+      "Tony Parker"
+    ],
+    "third-all-nba": [
+      "Al Jefferson",
+      "Paul George",
+      "LaMarcus Aldridge",
+      "Goran Dragic",
+      "Damian Lillard"
+    ]
+  },
+  "all-rookie": {
+    "first-all-rookie": [
+      "Michael Carter-Williams",
+      "Victor Oladipo",
+      "Trey Burke",
+      "Mason Plumlee",
+      "Tim Hardaway Jr."
+    ],
+    "secound-all-rookie": [
+      "Kelly Olynyk",
+      "Giannis Antetokounmpo",
+      "Gorgui Dieng",
+      "Cody Zeller",
+      "Steven Adams"
+    ]
+  }
+}

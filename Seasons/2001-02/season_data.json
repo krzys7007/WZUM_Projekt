@@ -1,0 +1,42 @@
+{
+  "season": "2001-02",
+  "all-nba": {
+    "first-all-nba": [
+      "Shaquille O'Neal",
+      "Tim Duncan",
+      "Tracy McGrady",
+      "Kobe Bryant",
+      "Jason Kidd"
+    ],
+    "secound-all-nba": [
+      "Dirk Nowitzki",
+      "Kevin Garnett",
+      "Chris Webber",
+      "Allen Iverson",
+      "Gary Payton"
+    ],
+    "third-all-nba": [
+      "Dikembe Mutombo",
+      "Jermaine O'Neal",
+      "Ben Wallace",
+      "Steve Nash",
+      "Paul Pierce"
+    ]
+  },
+  "all-rookie": {
+    "first-all-rookie": [
+      "Shane Battier",
+      "Pau Gasol",
+      "Andrei Kirilenko",
+      "Tony Parker",
+      "Jason Richardson"
+    ],
+    "secound-all-rookie": [
+      "Eddie Griffin",
+      "Richard Jefferson",
+      "Zeljko Rebraca",
+      "Jamaal Tinsley",
+      "Joe Johnson"
+    ]
+  }
+}

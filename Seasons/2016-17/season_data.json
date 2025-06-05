@@ -1,0 +1,42 @@
+{
+  "season": "2016-17",
+  "all-nba": {
+    "first-all-nba": [
+      "Anthony Davis",
+      "LeBron James",
+      "Kawhi Leonard",
+      "James Harden",
+      "Russell Westbrook"
+    ],
+    "secound-all-nba": [
+      "Rudy Gobert",
+      "Giannis Antetokounmpo",
+      "Kevin Durant",
+      "Stephen Curry",
+      "Isaiah Thomas"
+    ],
+    "third-all-nba": [
+      "DeAndre Jordan",
+      "Draymond Green",
+      "Jimmy Butler III",
+      "John Wall",
+      "DeMar DeRozan"
+    ]
+  },
+  "all-rookie": {
+    "first-all-rookie": [
+      "Malcolm Brogdon",
+      "Dario Šarić",
+      "Joel Embiid",
+      "Buddy Hield",
+      "Willy Hernangomez"
+    ],
+    "secound-all-rookie": [
+      "Jamal Murray",
+      "Jaylen Brown",
+      "Marquese Chriss",
+      "Brandon Ingram",
+      "Yogi Ferrell"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "season": "2021-22",
+  "all-nba": {
+    "first-all-nba": [
+      "Nikola Jokić",
+      "Giannis Antetokounmpo",
+      "Jayson Tatum",
+      "Luka Dončić",
+      "Devin Booker"
+    ],
+    "secound-all-nba": [
+      "Joel Embiid",
+      "Kevin Durant",
+      "DeMar DeRozan",
+      "Ja Morant",
+      "Stephen Curry"
+    ],
+    "third-all-nba": [
+      "Karl-Anthony Towns",
+      "LeBron James",
+      "Pascal Siakam",
+      "Chris Paul",
+      "Trae Young"
+    ]
+  },
+  "all-rookie": {
+    "first-all-rookie": [
+      "Scottie Barnes",
+      "Cade Cunningham",
+      "Evan Mobley",
+      "Franz Wagner",
+      "Jalen Green"
+    ],
+    "secound-all-rookie": [
+      "Herbert Jones",
+      "Josh Giddey",
+      "Bones Hyland",
+      "Ayo Dosunmu",
+      "Chris Duarte"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "season": "2014-15",
+  "all-nba": {
+    "first-all-nba": [
+      "Marc Gasol",
+      "LeBron James",
+      "Anthony Davis",
+      "Stephen Curry",
+      "James Harden"
+    ],
+    "secound-all-nba": [
+      "DeMarcus Cousins",
+      "Pau Gasol",
+      "LaMarcus Aldridge",
+      "Russell Westbrook",
+      "Chris Paul"
+    ],
+    "third-all-nba": [
+      "DeAndre Jordan",
+      "Blake Griffin",
+      "Tim Duncan",
+      "Klay Thompson",
+      "Kyrie Irving"
+    ]
+  },
+  "all-rookie": {
+    "first-all-rookie": [
+      "Andrew Wiggins",
+      "Nikola Mirotic",
+      "Nerlens Noel",
+      "Elfrid Payton",
+      "Jordan Clarkson"
+    ],
+    "secound-all-rookie": [
+      "Marcus Smart",
+      "Zach LaVine",
+      "Bojan Bogdanović",
+      "Jusuf Nurkić",
+      "Langston Galloway"
+    ]
+  }
+}

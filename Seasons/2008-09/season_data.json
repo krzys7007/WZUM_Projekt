@@ -1,0 +1,42 @@
+{
+  "season": "2008-09",
+  "all-nba": {
+    "first-all-nba": [
+      "Dwight Howard",
+      "LeBron James",
+      "Dirk Nowitzki",
+      "Kobe Bryant",
+      "Dwyane Wade"
+    ],
+    "secound-all-nba": [
+      "Yao Ming",
+      "Tim Duncan",
+      "Paul Pierce",
+      "Chris Paul",
+      "Brandon Roy"
+    ],
+    "third-all-nba": [
+      "Shaquille O'Neal",
+      "Carmelo Anthony",
+      "Pau Gasol",
+      "Chauncey Billups",
+      "Tony Parker"
+    ]
+  },
+  "all-rookie": {
+    "first-all-rookie": [
+      "Michael Beasley",
+      "Brook Lopez",
+      "O.J. Mayo",
+      "Derrick Rose",
+      "Russell Westbrook"
+    ],
+    "secound-all-rookie": [
+      "Mario Chalmers",
+      "Marc Gasol",
+      "Eric Gordon",
+      "Kevin Love",
+      "D.J. Augustin"
+    ]
+  }
+}

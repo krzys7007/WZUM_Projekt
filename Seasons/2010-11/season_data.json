@@ -1,0 +1,42 @@
+{
+  "season": "2010-11",
+  "all-nba": {
+    "first-all-nba": [
+      "Dwight Howard",
+      "Kevin Durant",
+      "LeBron James",
+      "Kobe Bryant",
+      "Derrick Rose"
+    ],
+    "secound-all-nba": [
+      "Amar'e Stoudemire",
+      "Pau Gasol",
+      "Dirk Nowitzki",
+      "Dwyane Wade",
+      "Russell Westbrook"
+    ],
+    "third-all-nba": [
+      "Al Horford",
+      "LaMarcus Aldridge",
+      "Zach Randolph",
+      "Manu Ginobili",
+      "Chris Paul"
+    ]
+  },
+  "all-rookie": {
+    "first-all-rookie": [
+      "DeMarcus Cousins",
+      "Landry Fields",
+      "Blake Griffin",
+      "Gary Neal",
+      "John Wall"
+    ],
+    "secound-all-rookie": [
+      "Eric Bledsoe",
+      "Derrick Favors",
+      "Paul George",
+      "Wesley Johnson",
+      "Greg Monroe"
+    ]
+  }
+}

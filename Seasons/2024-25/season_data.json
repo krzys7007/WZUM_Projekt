@@ -1,0 +1,42 @@
+{
+  "season": "2024-25",
+  "all-nba": {
+    "first-all-nba": [
+      "Nikola Jokić",
+      "Giannis Antetokounmpo",
+      "Jayson Tatum",
+      "Shai Gilgeous-Alexander",
+      "Donovan Mitchell"
+    ],
+    "secound-all-nba": [
+      "Evan Mobley",
+      "LeBron James",
+      "Stephen Curry",
+      "Anthony Edwards",
+      "Jalen Brunson"
+    ],
+    "third-all-nba": [
+      "Karl-Anthony Towns",
+      "Jalen Williams",
+      "Cade Cunningham",
+      "Tyrese Haliburton",
+      "James Harden"
+    ]
+  },
+  "all-rookie": {
+    "first-all-rookie": [
+      "Stephon Castle",
+      "Zach Edey",
+      "Zaccharie Risacher",
+      "Alex Sarr",
+      "Jaylen Wells"
+    ],
+    "secound-all-rookie": [
+      "Matas Buzelis",
+      "Bub Carrington",
+      "Donovan Clingan",
+      "Yves Missi",
+      "Kel'el Ware"
+    ]
+  }
+}

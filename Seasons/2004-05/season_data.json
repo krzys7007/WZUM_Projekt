@@ -1,0 +1,42 @@
+{
+  "season": "2004-05",
+  "all-nba": {
+    "first-all-nba": [
+      "Shaquille O'Neal",
+      "Tim Duncan",
+      "Dirk Nowitzki",
+      "Allen Iverson",
+      "Steve Nash"
+    ],
+    "secound-all-nba": [
+      "Amar'e Stoudemire",
+      "Kevin Garnett",
+      "LeBron James",
+      "Ray Allen",
+      "Dwyane Wade"
+    ],
+    "third-all-nba": [
+      "Ben Wallace",
+      "Shawn Marion",
+      "Tracy McGrady",
+      "Gilbert Arenas",
+      "Kobe Bryant"
+    ]
+  },
+  "all-rookie": {
+    "first-all-rookie": [
+      "Luol Deng",
+      "Ben Gordon",
+      "Dwight Howard",
+      "Andre Iguodala",
+      "Emeka Okafor"
+    ],
+    "secound-all-rookie": [
+      "Josh Childress",
+      "Al Jefferson",
+      "Nenad Krstic",
+      "Jameer Nelson",
+      "Josh Smith"
+    ]
+  }
+}

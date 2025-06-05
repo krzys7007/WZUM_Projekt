@@ -1,0 +1,42 @@
+{
+  "season": "2023-24",
+  "all-nba": {
+    "first-all-nba": [
+      "Nikola Jokić",
+      "Giannis Antetokounmpo",
+      "Jayson Tatum",
+      "Luka Dončić",
+      "Shai Gilgeous-Alexander"
+    ],
+    "secound-all-nba": [
+      "Anthony Davis",
+      "Kevin Durant",
+      "Kawhi Leonard",
+      "Jalen Brunson",
+      "Anthony Edwards"
+    ],
+    "third-all-nba": [
+      "LeBron James",
+      "Domantas Sabonis",
+      "Devin Booker",
+      "Stephen Curry",
+      "Tyrese Haliburton"
+    ]
+  },
+  "all-rookie": {
+    "first-all-rookie": [
+      "Chet Holmgren",
+      "Jaime Jaquez Jr.",
+      "Brandon Miller",
+      "Brandin Podziemski",
+      "Victor Wembanyama"
+    ],
+    "secound-all-rookie": [
+      "Dereck Lively II",
+      "GG Jackson",
+      "Keyonte George",
+      "Amen Thompson",
+      "Cason Wallace"
+    ]
+  }
+}
